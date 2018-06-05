@@ -1,5 +1,4 @@
 const app = "I don't do much."
-var kittens
 
 function arrays() {
   
@@ -7,5 +6,5 @@ function arrays() {
 }
 
 function resetKittens() {
-  kittens = ['Milo', 'Otis', 'Garfield']
+  var kittens = ['Milo', 'Otis', 'Garfield']
 }
